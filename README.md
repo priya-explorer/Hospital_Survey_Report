@@ -13,7 +13,8 @@ The goal of this project is to determine from the HCAHPS survey whether the hosp
     4. Provide recommendations to hospitals for further improving the overall patient experience.
 
 ### Tools used for the project: 
-      Excel for Analysis, Power BI for Report building and dashboard
+       Excel for Analysis
+       Power BI for Report building and dashboard
       
 
 ## Data Source
